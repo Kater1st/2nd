@@ -7,4 +7,3 @@ public abstract class Goal
     public abstract void RecordEvent();
     public abstract string GetStringRepresentation();
 }
-
