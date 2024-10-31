@@ -1,3 +1,11 @@
+/*
+ * Enhancements to Exceed Requirements:
+ 
+ * The program now provides bonus rewards for completing 5 goals.
+ * 
+ * The enhenced feature the gamification aspect of the program, making it more engaging and rewarding for users.
+ */
+
 using System;
 
 class Program
