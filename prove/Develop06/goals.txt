@@ -1,0 +1,2 @@
+0
+SimpleGoal:to read for 10 mins every afternoon,to read and focus for 30 minutes without losing concernytration,100,False
